@@ -6,7 +6,7 @@ pipeline {
 
     }
     stages {
-        stage ('Latest SWP') {
+        stage ('Latest SWPP') {
             agent { 
                 label 'local'
             }
